@@ -1,6 +1,6 @@
 # Sign Language MNIST Classification with CNN
 
-This project focuses on classifying American Sign Language (ASL) letters using a deep learning model trained on the Sign Language MNIST dataset. The model achieves high accuracy using a Convolutional Neural Network (CNN), making it suitable for gesture recognition tasks in real-time applications.
+This project focuses on classifying American Sign Language (ASL) letters using a deep learning model trained on the Sign Language MNIST dataset. The model achieves high accuracy using a Convolutional Neural Network (CNN).
 
 ---
 
